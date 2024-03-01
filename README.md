@@ -2,6 +2,10 @@
 ### Date: Nov 9, 2023  
 ### Project Overview
 -- ----
+
+### Repo is now arcvhived. Please refer to:
+#### https://github.com/CannedKilroy/Loan-Prediction
+### For the updated repo
 With an estimated size of $153 billion dollars in 2022, the peer-to-peer (P2P) loan market is a viable alternative to traditional lending institutions for individuals seeking small loans. However, investors face challenges in predicting the likelihood of repayment or default due to the lack of borrower information in P2P markets and lack of collateralization.
 
 The primary objective of this project is to **predict whether a borrower will repay or default on their loan, based on the characteristics of the loan and the borrower's financial standing**, allowing investors to better minimize credit risk.
